@@ -8,4 +8,4 @@ We are a ctf team which was made at the University of Wellington, founded in 202
 
 ## How did we do?
 In this competition, we placed 510th out of the 10500 teams which played. We also solved a total of 25 challenges during the competition. Feel free to check up our writeups for the challenges we did!
-If you are a student at Vuw and want to join the team, feel free to contact us, by following us at github.com/VuwCTF.
+If you are a student at Vuw and want to join the team, feel free to contact us, by filling out the following: https://docs.google.com/forms/d/e/1FAIpQLSf1xgk88_p__J4mzBhOQalNSKJ0tPzjCQJP6tdaMOJL7bLzyw/viewform?usp=sharing.
