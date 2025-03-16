@@ -1,0 +1,1 @@
+use https://github.com/breppo/Volatility-BitLocker with volatility 2 (only live github version, this windows version isn't supported, --profile=Win10x64_19041), use resulting fvek files to decrypt the disk image with https://github.com/Aorimn/dislocker/, with -k <fvek file> then mount as described in the manpage

@@ -1,0 +1,1 @@
+You login with a random username and password then look at the cookies to get the flag.

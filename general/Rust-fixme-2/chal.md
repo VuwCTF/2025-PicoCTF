@@ -1,0 +1,1 @@
+This is the same idea as Rust-fixme-1.
